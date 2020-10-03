@@ -40,9 +40,9 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 
 **Daftar Tebakan**
 * [UKBM1-F-E](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-E.md)
-* [UKBM1-F-M]()
-* [UKBM1-F-H]()
-* [UKBM1-F-X]()
+* [UKBM1-F-M](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-M.md)
+* [UKBM1-F-H](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-H.md)
+* [UKBM1-F-X](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-X.md)
 
 
 * [Rangkuman UKBM1-F]()
