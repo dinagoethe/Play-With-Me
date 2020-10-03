@@ -1,4 +1,4 @@
-# Play-With-Me
+# Play With Me
 Otak teman-teman sekalian, akan dikuras untuk mendapatkan hal percuma di tempat penyimpanan ini. Selamat berjuang!
 
 ## BACA DULU SEBELUM DAPATKAN HAL PERCUMA ITU!
@@ -42,7 +42,7 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 * [UKBM1-F-E]()
 * [UKBM1-F-M]()
 * [UKBM1-F-H]()
-* [UKBM2-F-X]()
+* [UKBM1-F-X]()
 
 
 * [Rangkuman UKBM1-F]()
@@ -52,5 +52,11 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 Selamat mencoba, dan jangan pernah berpikir untuk mundur ketika ingin mendapatkan sesuatu. 
 
 *I know u can do it*
+
+
+
+Salam, semangat belajar!
+
+`Ramadina Goethe` `1920.10.121`
 
 
