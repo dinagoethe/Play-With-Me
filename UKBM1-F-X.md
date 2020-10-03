@@ -6,7 +6,7 @@ Tebakan mulai.
 
 ---
 
-Sudah tahu jawabannya? [Dapatkan yang kalian inginkan!]
+Sudah tahu jawabannya? [Dapatkan yang kalian inginkan!](https://drive.google.com/drive/folders/1-17Zqr6_RUHjIDCJ9ZTtsqEvsCnziY7h)
 
 
 Salam, semangat belajar!
