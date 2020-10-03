@@ -19,5 +19,5 @@ Jika seorang ayam bertelur tiga butir setiap dua hari, berapa hari yang dibutuhk
 
 ---
 Sudah tahu jawabannya?
-[Dapatkan yang kau inginkan!]()
+[Dapatkan yang kau inginkan!](https://drive.google.com/drive/folders/1-PQ-CmKTO_u27nfgXxzVzNytR214GBSW)
 
