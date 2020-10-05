@@ -1,5 +1,5 @@
 Tebakan kali ini akan menguji pengetahuan teman-teman sekalian seputar kosakata berbahasa dan hitungan sederhana. 
-Kunci : Huruf selang seling kapital lalu kecil, lalu diakhiri dengan angka.
+**Kata Sandi : Huruf selang seling kapital lalu kecil, lalu diakhiri dengan angka.**
 
 Mulai tebakan.
 
@@ -19,5 +19,5 @@ Jika seorang ayam bertelur tiga butir setiap dua hari, berapa hari yang dibutuhk
 
 ---
 Sudah tahu jawabannya?
-[Dapatkan yang kau inginkan!](https://drive.google.com/drive/folders/1-PQ-CmKTO_u27nfgXxzVzNytR214GBSW)
+[Dapatkan yang kau inginkan!](https://forms.gle/3egCC39v7VM5JCGc9)
 
