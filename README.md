@@ -40,8 +40,8 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 
 ### Daftar Tebakan
 **Rangkuman Materi**
-* [Rangkuman UKBM 1 Fisika]()
-* [Rangkuman UKBM 2 Fisika]()
+* [Rangkuman UKBM 1 Fisika : Torsi]()
+* [Rangkuman UKBM 2 Fisika : Elastisitas]() *coming soon!*
 
 **UKBM 1 Fisika**
 * [UKBM1-F-E](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-E.md)
