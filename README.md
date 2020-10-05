@@ -17,7 +17,7 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 
 ---
 
-**Begini tahapnya**
+### Begini Tahapannya
 1. Pilih salah satu level soal.
 2. Kerjakan. Jawaban dari soal-soal tersebut hanya akan berisi angka/kata. Seperti misalnya : JAWABAN. atau 12345. atau JaWabAN. Tergantung dari perintah pada soalnya.
 3. Setelah menemukan jawabannya, kalian klik link [Dapatkan Hal yang Kau Inginkan!]()
@@ -26,7 +26,7 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 
 ---
 
-**Ketentuan Permainan**
+### Ketentuan Permainan
 1. Permainan membutuhkan kejelian kalian dalam membaca.
 2. Banyak jebakan dalam permainan ini. *Hati-hati!*
 3. Jawaban sederhana, bukanlah esay panjang.
@@ -38,14 +38,22 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 
 ---
 
-**Daftar Tebakan**
+### Daftar Tebakan
+**Rangkuman Materi**
+* [Rangkuman UKBM 1 Fisika]()
+* [Rangkuman UKBM 2 Fisika]()
+
+**UKBM 1 Fisika**
 * [UKBM1-F-E](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-E.md)
 * [UKBM1-F-M](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-M.md)
 * [UKBM1-F-H](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-H.md)
 * [UKBM1-F-X](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-X.md)
 
+**UKBM 2 Fisika**
+*coming soon!**
 
-* [Rangkuman UKBM1-F]()
+
+
 
 ---
 
