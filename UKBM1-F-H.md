@@ -1,5 +1,5 @@
 Tebakan kali ini akan menguji pengetahuan teman-teman sekalian seputar kosakata berbahasa dan hitungan sederhana. 
-**Kata Sandi : huruf pertama ditulis huruf kecil sedangkan 3 huruf terakhir ditulis besar, lalu diakhiri dengan angka tanpa ada jeda karakter.**
+**Kata Sandi : huruf pertama ditulis huruf kecil sedangkan 3 huruf terakhir ditulis kapital, lalu diakhiri dengan angka tanpa ada jeda karakter.**
 
 Mulai tebakan.
 
