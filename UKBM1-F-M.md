@@ -15,6 +15,7 @@ Kedelapan huruf di bawah ini dapat disusun menjadi sebuah kata yang diawali deng
 
 ## Tebakan 2 : Kandang Banteng
 Di sebuah kandang terdapat banteng-banteng yang jumlahnya pasti. Perbedaan antara jumlah kaki dan jumlah ekor adalah 45. Dapatkan kalian menemukan berapa jumlah banteng di dalam kandang? 
+
 *Petunjuk : Kalian akan melihat bahwa selisih jumlah kaki dan jumlah ekor setiap banteng adalah 3.*
 
 ---
