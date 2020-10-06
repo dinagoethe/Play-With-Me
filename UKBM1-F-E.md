@@ -1,5 +1,5 @@
 Tebakan kali ini akan menguji pengetahuan teman-teman sekalian seputar kosakata berbahasa dan hitungan sederhana. 
-**Kata Sandi : Huruf selang seling kapital lalu kecil, lalu diakhiri dengan angka.**
+**Kata Sandi : Huruf selang seling kapital lalu kecil, lalu diakhiri dengan angka tanpa jeda karakter.**
 
 Mulai tebakan.
 
