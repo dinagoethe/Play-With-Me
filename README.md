@@ -6,12 +6,13 @@ Otak teman-teman sekalian, akan dikuras untuk mendapatkan hal percuma di tempat 
 Setiap permainan memiliki [aturan]() kan? 
 Di dunia ini memang tidak ada yang gratis, sayang. 
 Dan salah satunya adalah untuk mendapatkan hal percuma ini. Uang?
-Bukan, gue nggak akan pernah minta duit buat hal bertema pendidikan seperti ini.
+Bukan, ini tentang :
 
-Soal dibayar soal.
-Rangkuman dibayar kecerdasan.
+Soal dibayar **soal**.
 
-Gue butuh otak kalian untuk bekerja lebih keras menyelesaikan tahap sebelum mendapatkan hal percuma itu. Kuncinya adalah keberhasilan kalian melewati [tahap ini](), maka kalian akan mudah memahami hal-hal percuma itu. 
+Rangkuman dibayar **kejelian**. 
+
+Gue butuh otak kalian untuk bekerja lebih keras menyelesaikan tahap sebelum mendapatkan hal percuma itu. Kuncinya adalah keberhasilan kalian melewati tahap ini, maka kalian akan mudah memahami hal-hal percuma itu. 
 
 Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhana. Teman-teman tidak perlu mengeluarkan buku saku rumus-rumus matematika untuk melewati tahap ini. 
 
@@ -21,7 +22,7 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 1. Pilih salah satu level soal.
 2. Kerjakan. Jawaban dari soal-soal tersebut hanya akan berisi angka/kata. Seperti misalnya : JAWABAN. atau 12345. atau JaWabAN. Tergantung dari perintah pada soalnya.
 3. Setelah menemukan jawabannya, kalian klik link [Dapatkan Hal yang Kau Inginkan!]()
-4. Kalian akan dimintai password. Isi password tersebut dengan jawaban yang kalian dapatkan dari soal yang telah kalian jawab.
+4. Kalian akan dimintai **kata sandi**. Isi kata sandi tersebut dengan jawaban yang kalian dapatkan dari soal yang telah kalian jawab.
 5. Dan... BOOM! Kalian memiliki akses untuk mendapatkan hal percuma itu. 
 
 ---
@@ -33,21 +34,22 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 4. Jawaban bisa berupa angka, seperti : 12345.
 5. Atau berupa 1 kata, seperti : JAWABAN.
 6. Atauuu kata tersebut akan dimodifikasi, membuat kalian berpikir dua kali dalam mencari hal percuma ini.
-7. Hal percuma yang muncul setelah kalian memasukkan password, **belum tentu akan sesuai dengan keinginan kalian**, sebab soal-soal tersebut dikelompokkan berdasarkan tingkat kesulitannya. Pokoknya tebak saja!
-8. Jangan menyesal ketika membaca ketentuan yang ke-7. Berpikirlah kalau kalian pasti bisa!
+7. Hal percuma yang muncul setelah kalian memasukkan kata sandi, **belum tentu akan sesuai dengan keinginan kalian**, sebab soal-soal tersebut dikelompokkan berdasarkan tingkat kesulitannya. Pokoknya tebak saja!
+8. Jangan menyesal ketika membaca ketentuan yang ke-7. Berpikirlah kalau kalian pasti bisa! Kalian bisa tanya langsung melalui DM atau WA. 
 
 ---
 
 ### Daftar Tebakan
-**Rangkuman Materi**
-* [Rangkuman UKBM 1 Fisika : Torsi]()
-* [Rangkuman UKBM 2 Fisika : Elastisitas]() *coming soon!*
+**Rangkuman Materi (Tanpa kata sandi, memerlukan kejelian)**
+* [Rangkuman UKBM 1 Fisika : Torsi](https://github.com/dinagoethe/Play-With-Me/blob/main/Torsi.md)
+* [Rangkuman UKBM 2 Fisika : Elastisitas](https://github.com/dinagoethe/Play-With-Me/blob/main/Elastisitas.md) *coming soon!*
 
-**UKBM 1 Fisika**
-* [UKBM1-F-E](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-E.md)
-* [UKBM1-F-M](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-M.md)
-* [UKBM1-F-H](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-H.md)
-* [UKBM1-F-X](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-X.md)
+**UKBM 1 Fisika (Menggunakan kata sandi)**
+* [Lv.1](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-E.md)
+* [Lv.2](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-M.md)
+* [Lv.3](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-H.md)
+* [Lv.4](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-X.md)
+* [UlalA](https://github.com/dinagoethe/Play-With-Me/blob/main/Tes%20A.md) 
 
 **UKBM 2 Fisika**
 *coming soon!**
