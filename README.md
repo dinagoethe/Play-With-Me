@@ -3,7 +3,7 @@ Otak teman-teman sekalian, akan dikuras untuk mendapatkan hal percuma di tempat 
 
 ## BACA DULU SEBELUM DAPATKAN HAL PERCUMA ITU!
 
-Setiap permainan memiliki [aturan]() kan? 
+Setiap permainan memiliki aturan kan? 
 Di dunia ini memang tidak ada yang gratis, sayang. 
 Dan salah satunya adalah untuk mendapatkan hal percuma ini. Uang?
 Bukan, ini tentang :
@@ -20,9 +20,9 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 
 ### Begini Tahapannya
 1. Pilih salah satu level soal.
-2. Kerjakan. Jawaban dari soal-soal tersebut hanya akan berisi angka/kata. Seperti misalnya : JAWABAN. atau 12345. atau JaWabAN. Tergantung dari perintah pada soalnya.
+2. Kerjakan. Jawaban dari teka-teki tersebut hanya akan berisi angka/kata. Seperti misalnya : JAWABAN. atau 12345. atau JaWabAN123. Tergantung dari perintah pada teka-tekinya.
 3. Setelah menemukan jawabannya, kalian klik link [Dapatkan Hal yang Kau Inginkan!]()
-4. Kalian akan dimintai **kata sandi**. Isi kata sandi tersebut dengan jawaban yang kalian dapatkan dari soal yang telah kalian jawab.
+4. Kalian akan dimintai **kata sandi**. Isi kata sandi tersebut dengan jawaban yang kalian dapatkan dari teka-teki sebelumnya.
 5. Dan... BOOM! Kalian memiliki akses untuk mendapatkan hal percuma itu. 
 
 ---
@@ -33,16 +33,16 @@ Hanya permainan kecil yang membutuhkan kemampuan literasi dan berhitung sederhan
 3. Jawaban sederhana, bukanlah esay panjang.
 4. Jawaban bisa berupa angka, seperti : 12345.
 5. Atau berupa 1 kata, seperti : JAWABAN.
-6. Atauuu kata tersebut akan dimodifikasi, membuat kalian berpikir dua kali dalam mencari hal percuma ini.
+6. Atauuu bahkan kata tersebut akan dimodifikasi, membuat kalian berpikir dua kali dalam mencari hal percuma ini.
 7. Hal percuma yang muncul setelah kalian memasukkan kata sandi, **belum tentu akan sesuai dengan keinginan kalian**, sebab soal-soal tersebut dikelompokkan berdasarkan tingkat kesulitannya. Pokoknya tebak saja!
-8. Jangan menyesal ketika membaca ketentuan yang ke-7. Berpikirlah kalau kalian pasti bisa! Kalian bisa tanya langsung melalui DM atau WA. 
+8. Jangan menyesal ketika membaca ketentuan yang ke-7. Berpikirlah kalau kalian pasti bisa! Bila benar-benar sudah buntu, kalian bisa tanya langsung melalui DM atau WA. 
 
 ---
 
 ### Daftar Tebakan
 **Rangkuman Materi (Tanpa kata sandi, memerlukan kejelian)**
 * [Rangkuman UKBM 1 Fisika : Torsi](https://github.com/dinagoethe/Play-With-Me/blob/main/Torsi.md)
-* [Rangkuman UKBM 2 Fisika : Elastisitas](https://github.com/dinagoethe/Play-With-Me/blob/main/Elastisitas.md) *coming soon!*
+* [Rangkuman UKBM 2 Fisika : Elastisitas](https://github.com/dinagoethe/Play-With-Me/blob/main/Elastisitas.mds) *coming soon!*
 
 **UKBM 1 Fisika (Menggunakan kata sandi)**
 * [Lv.1](https://github.com/dinagoethe/Play-With-Me/blob/main/UKBM1-F-E.md)
