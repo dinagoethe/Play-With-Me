@@ -8,9 +8,9 @@ Di dunia ini memang tidak ada yang gratis, sayang.
 Dan salah satunya adalah untuk mendapatkan hal percuma ini. Uang?
 Bukan, ini tentang :
 
-Soal dibayar **soal**.
+**Soal dibayar soal**.
 
-Rangkuman dibayar **kejelian**. 
+**Rangkuman dibayar kejelian**. 
 
 Gue butuh otak kalian untuk bekerja lebih keras menyelesaikan tahap sebelum mendapatkan hal percuma itu. Kuncinya adalah keberhasilan kalian melewati tahap ini, maka kalian akan mudah memahami hal-hal percuma itu. 
 
